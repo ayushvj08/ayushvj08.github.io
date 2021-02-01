@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayush Vijayant</title>
+    <link>http://ayushvj08.github.io/</link>
+    <description>Recent content on Ayush Vijayant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2021 23:34:47 +0530</lastBuildDate><atom:link href="http://ayushvj08.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chronobyte</title>
+      <link>http://ayushvj08.github.io/posts/chronobyte/</link>
+      <pubDate>Mon, 01 Feb 2021 23:34:47 +0530</pubDate>
+      
+      <guid>http://ayushvj08.github.io/posts/chronobyte/</guid>
+      <description>This is some Content
+#include&amp;lt;iostream&amp;gt; using namespace std ; int main( int argc, char *argv[]) { // here is some code &amp;#34;Be A Good Programmer&amp;#34; return 0; } </description>
+    </item>
+    
+  </channel>
+</rss>
